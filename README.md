@@ -56,16 +56,24 @@ Candidate → Application → Interview → Offer → Placement
 
 ## File Structure
 sql/
-  00_schema.sql
-  01_seed_data.sql
-  02_kpis_pipeline.sql
-  03_kpis_recruiting.sql
-  04_kpis_sales
-  05_kpis_delivery.sql
-  06_data_quality_checks.sql
+
+    00_schema.sql
+
+    01_seed_data.sql
+
+    02_kpis_pipeline.sql
+
+    03_kpis_recruiting.sql
+
+    04_kpis_sales
+
+    05_kpis_delivery.sql
+
+    06_data_quality_checks.sql
 
 docs/
-  kpi_dictionary.md
+
+    kpi_dictionary.md
 
 ---
 
